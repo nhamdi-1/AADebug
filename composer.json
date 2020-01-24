@@ -6,7 +6,7 @@
     "license": "BSD-3-Clause",
     "autoload": {
         "psr-0": {
-            "": "AADebug/"
+            "ZFDebug_": "AADebug/"
         }
     },
     "include-path": [
