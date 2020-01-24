@@ -5,7 +5,7 @@
     "homepage": "https://github.com/nhamdi-1/AADebug",
     "license": "BSD-3-Clause",
     "autoload": {
-        "psr-4": {
+        "psr-0": {
             "": "AADebug/"
         }
     },
